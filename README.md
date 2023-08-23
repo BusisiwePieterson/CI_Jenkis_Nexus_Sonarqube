@@ -2,7 +2,7 @@
 Continuous Integration using Jenkins, Nexus, Sonarqube & Slack
 
 <p align="center">
-  <img src="Deploy a dynamic website on AWS.png">
+  <img src="Continuous Integration Using Jenkins,Nexus,Sonarqube& Slack.png" width='650' height='450'>
 </p>
 
 ## STEPS
