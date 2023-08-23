@@ -1,6 +1,10 @@
 # CI_Jenkis_Nexus_Sonarqube
 Continuous Integration using Jenkins, Nexus, Sonarqube & Slack
 
+<p align="center">
+  <img src="Deploy a dynamic website on AWS.png">
+</p>
+
 ## STEPS
 
 1. Login to the AWS Account
