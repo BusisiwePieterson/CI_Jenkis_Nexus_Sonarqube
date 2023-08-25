@@ -11,3 +11,4 @@ Continuous Integration using Jenkins, Nexus, Sonarqube and Slack
 6. Integrate: Nexus; Sornaqube
 7. Write Pipeline script
 8. Slack notification
+9. Done
