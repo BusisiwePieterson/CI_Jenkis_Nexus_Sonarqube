@@ -1,6 +1,10 @@
 # CI_Jenkis_Nexus_Sonarqube
 Continuous Integration using Jenkins, Nexus, Sonarqube and Slack
 
+<p align="center">
+  <img src="Continuous Integration Using Jenkins,Nexus,Sonarqube& Slack.png" width='650' height='450'>
+</p>
+
 ## STEPS
 
 1. Jenkins setup
