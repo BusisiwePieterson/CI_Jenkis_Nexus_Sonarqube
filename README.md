@@ -2,7 +2,7 @@
 Continuous Integration using Jenkins, Nexus, Sonarqube and Slack
 
 <p align="center">
-  <img src="Continuous Integration Using Jenkins,Nexus,Sonarqube& Slack.png" width='650' height='450'>
+  <img src="Architecture Of Continous Delivery PipeLine.png" width='650' height='450'>
 </p>
 
 ## STEPS
